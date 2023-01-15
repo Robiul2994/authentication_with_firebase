@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800559948397",
+    "project_id": "routin-a20bb",
+    "storage_bucket": "routin-a20bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800559948397:android:43562066da602ae07bd564",
+        "android_client_info": {
+          "package_name": "com.example.routin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800559948397-m3os450jiq7qcdvraha5hdq6rd8r4u9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoGl_z6n3ueCWiQdH9lmoxmbyJDhgSVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800559948397-m3os450jiq7qcdvraha5hdq6rd8r4u9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
